@@ -1,0 +1,132 @@
+{
+  "students": [
+    {
+      "userName": "احمد علاء",
+      "email": "ahmed@gmail.com",
+      "password": "1234",
+      "subjects": [
+        {
+          "name": "الرياضيات",
+          "id": "836d",
+          "degree": 2
+        },
+        {
+          "name": "اللعة الانجليزية",
+          "id": "358a",
+          "degree": 2
+        }
+      ],
+      "id": "5a22"
+    },
+    {
+      "userName": "اسلام محمد",
+      "email": "alaa@gmail.com",
+      "password": "1234",
+      "subjects": [
+        {
+          "name": "الرياضيات",
+          "id": "836d",
+          "degree": 2
+        }
+      ],
+      "id": "09f1"
+    },
+    {
+      "id": "1522",
+      "userName": "محمد سعد",
+      "email": "mohamed@gmail",
+      "password": "1234"
+    },
+    {
+      "userName": "ابراهيم رجب",
+      "email": "hema@hema",
+      "password": "1234",
+      "subjects": [
+        {
+          "name": "الرياضيات",
+          "id": "836d",
+          "degree": 4
+        }
+      ],
+      "id": "08a3"
+    }
+  ],
+  "doctor": [
+    {
+      "id": "1",
+      "userName": "admin",
+      "email": "admin@admin",
+      "password": "1234"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "836d",
+      "name": "Math",
+      "questions": [
+        {
+          "question": "2*2",
+          "answer1": "4",
+          "answer2": "8",
+          "answer3": "6",
+          "answer4": "1",
+          "correctAnswer": "4"
+        },
+        {
+          "question": "3*3",
+          "answer1": "3",
+          "answer2": "6",
+          "answer3": "9",
+          "answer4": "18",
+          "correctAnswer": "9"
+        },
+        {
+          "question": "4*4",
+          "answer1": "8",
+          "answer2": "4",
+          "answer3": "12",
+          "answer4": "16",
+          "correctAnswer": "16"
+        },
+        {
+          "question": "5*5",
+          "answer1": "10",
+          "answer2": "25",
+          "answer3": "20",
+          "answer4": "15",
+          "correctAnswer": "25"
+        }
+      ]
+    },
+    {
+      "id": "358a",
+      "name": "English",
+      "questions": [
+        {
+          "question": "how are you",
+          "answer1": "hi",
+          "answer2": "hellow",
+          "answer3": "15",
+          "answer4": "fine",
+          "correctAnswer": "fine"
+        },
+        {
+          "question": "how old are you",
+          "answer1": "24",
+          "answer2": "hi",
+          "answer3": "yes",
+          "answer4": "hellow",
+          "correctAnswer": "24"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "userName": "admin",
+      "role": "doctor",
+      "userId": "1",
+      "id": "1"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  margin: 0 !important;
+}
+
+* {
+  font-family: 'Almarai', sans-serif;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Almarai", sans-serif !important;
+}
+/*# sourceMappingURL=styles.css.map */
